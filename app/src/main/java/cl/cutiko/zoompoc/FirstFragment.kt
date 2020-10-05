@@ -26,13 +26,6 @@ class FirstFragment : Fragment() {
         Picasso.get().load(URL).centerCrop().fit().into(pocImageView)
     }
 
-    private fun scaleImage(scaleFactor: Float) {
-        pocImageView.scaleX = scaleFactor
-        pocImageView.scaleY = scaleFactor
-    }
-
-
-
     companion object {
         private const val URL = "https://unsplash.com/photos/qO-PIF84Vxg/download?force=true&w=640"
     }
