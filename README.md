@@ -5,7 +5,7 @@ First commit has the from scracth implementation, it seems doable with some more
 
 ## PhotoView
 
-[Dependency Link](https://github.com/chrisbanes/PhotoView)
+[Dependency Link](https://github.com/chrisbanes/PhotoView) Thousands of likes, the owner works on Google, its been supported from a long time
 
 Debug APK before adding the dependency is 4.2 MB total size
 
