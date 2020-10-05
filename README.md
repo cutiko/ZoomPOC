@@ -27,3 +27,5 @@ Bigger **PROBLEM** when movint to recycler view, [issues](https://github.com/nat
 ## PhotoView RecyclerView
 
 All of the problems of the first attempt plus all of the problems of the ZoomLayout RecyclerView gets solved when relying on Picasso to set the image sizing and making the `ImageView` full size
+
+![POC zoom image viewer demo](https://github.com/cutiko/ZoomPOC/blob/master/image%20viewer%20v1.gif?raw=true)
