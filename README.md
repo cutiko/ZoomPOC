@@ -19,3 +19,5 @@ After the library implementation the size is 4.4 MB
 After the library implementation the size is 4.2 MB
 
 It does fill the container on zoom instead of just filling the `ImageView` the **only problem so far is some XML attrbitutes doesn't seem to work** but it surely does what is needed.
+
+Bigger **PROBLEM** when movint to recycler view, [issues](https://github.com/natario1/ZoomLayout/issues?q=recyclerview) indicates it **is NOT supported**
