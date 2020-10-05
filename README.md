@@ -20,4 +20,11 @@ After the library implementation the size is 4.2 MB
 
 It does fill the container on zoom instead of just filling the `ImageView` the **only problem so far is some XML attrbitutes doesn't seem to work** but it surely does what is needed.
 
+## ZoomLayout RecyclerView
+
 Bigger **PROBLEM** when movint to recycler view, [issues](https://github.com/natario1/ZoomLayout/issues?q=recyclerview) indicates it **is NOT supported**
+
+## PhotoView RecyclerView
+
+All of the problems of the first attempt plus all of the problems of the ZoomLayout RecyclerView gets solved when relying on Picasso to set the image sizing and making the `ImageView` full width and full height
+
