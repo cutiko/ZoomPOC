@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".FirstFragment">
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         app:layout_constraintDimensionRatio="1:0.5"
         android:id="@+id/pocImageView"
         android:layout_width="0dp"
